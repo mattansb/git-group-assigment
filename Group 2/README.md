@@ -12,4 +12,4 @@ Facts:
 
 5. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
 
-6. Tinker Bell is a common fairy who is Peter Pan's best friend and is often jealously protective of him.
+6. Tinker Bell is a common fairy who is Peter Pan's best friend and is often jealously protective of him. :)
