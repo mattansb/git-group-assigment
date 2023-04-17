@@ -1,8 +1,7 @@
 # Peter Pan
 
 Facts:
-
-1. Peter Pan is a fictional character first appearing in J. M. Barrie's 1904 book: "Peter and Wendy"
+1. Peter Pan is a fictional character first appearing in J. M. Barrie's 1902 novel: "The Little White Bird". Another novel, "Peter and Wendy", was published in 1911.
 
 2. J. M. Barrie's name was James Matthew Barrie
 
