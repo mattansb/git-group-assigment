@@ -9,8 +9,7 @@ Facts:
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
 
 
-YES!!!
-
+YES
 4. The book had 2 sequels!
 
 5. The book was adapted to film dozens of times, including 	Tim Burton's 2010 "Alice in Underland".
