@@ -7,9 +7,9 @@ Facts:
 
 3. In stage plays, Peter Pan is traditionally played by a woman.
 
-4. Peter's biggest foe, is Captain Hook, who coincidentally has a hook for a hand!
+4. Peter's biggest foe, is Captain Hook. Hook is named after his iron hook, and his true name is never revealed.
 
-5. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
+5. Peter Pan was played by Robin Williams, who played as adult Peter Pan/Peter Banning in Stephen Spielberg's 1991 movie "Hook"
 
 More fun facts:
 1. Fairy dust was added in later versions: there were several reports of children getting hurt trying to jump from their beds, so JM Barrie added Fairy Dust for safety
