@@ -10,3 +10,6 @@ Facts:
 4. Peter's biggest foe, is Captain Hook, who coincidentally has a hook for a hand!
 
 5. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
+
+More fun facts:
+1. Fairy dust was added in later versions: there were several reports of children getting hurt trying to jump from their beds, so JM Barrie added Fairy Dust for safety
