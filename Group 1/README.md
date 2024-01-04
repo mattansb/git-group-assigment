@@ -11,3 +11,5 @@ Facts:
 4. The book had 2 sequels!
 
 5. The book was adapted to film dozens of times, including 	Tim Burton's 2010 "Alice in Underland".
+
+6. Alice isn't blonde, after all. Contrary to most films and illustrations, Alice is probably a brunette.
