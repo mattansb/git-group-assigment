@@ -4,11 +4,7 @@ Facts:
 
 1. Peter Pan is a fictional character first appearing in J. M. Barrie's 1904 book: "Peter and Wendy"
 
-<<<<<<< Updated upstream
 2. J. M. Barrie's name was James Matthew Barrie.
-=======
-2. J. M. Barrie's name was James Matthew Barrie 
->>>>>>> Stashed changes
 
 3. In stage plays, Peter Pan is traditionally played by a young boy.
 
