@@ -6,6 +6,8 @@ Facts:
 
 2. Lewis Carroll was the pen name of James Brown (not the singer!)
 
+#Alice's Adventures in Wonderland was written by Charles Lutwidge Dodgson, who used the pen name Lewis Carroll.
+
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
 
 4. The book had 2 sequels!
