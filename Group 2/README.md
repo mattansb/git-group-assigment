@@ -12,6 +12,6 @@ Facts:
 4. Peter's biggest foe, is Captain Hook, who coincidentally has a hook for a hand!
 4A. Captain Hook's right hand name is Mr.Smee.
 
-6. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
+6. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1953 movie "Hook"
 
 7. Alice in Wonderland Syndrome is an actual thing
