@@ -13,3 +13,5 @@ Facts:
 4A. Captain Hook's right hand name is Mr.Smee.
 
 6. Peter Pan was played by Robin Williams, who voiced him in Stephen Spielberg's 1991 movie "Hook"
+
+7. Alice in Wonderland Syndrome is an actual thing
