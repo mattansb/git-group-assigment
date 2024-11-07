@@ -10,7 +10,7 @@ Facts:
 
 4. The book had 1 sequel -The original Alice's Adventures in Wonderland by Lewis Carroll has one official sequel: Through the Looking-Glass, and What Alice Found There (1871). This second book takes Alice through a mirror into another fantastical world, filled with its own unique characters and logic.
 
-5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Underland".
+5. The book was adapted to film dozens of times, including Tim Burton's 2010 "Alice in Wonderland".
 
 6. The Alice in Wonderland film from 2010 generated over $1.025 billion.
 
