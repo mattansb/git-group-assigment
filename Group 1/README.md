@@ -14,9 +14,9 @@ Facts:
 
 6. The Alice in Wonderland film from 2010 generated over $1.025 billion.
 
-7.In the sequel Through the Looking-Glass, Alice steps through a mirror into a world that works like a giant chess game.
+7. In the sequel Through the Looking-Glass, Alice steps through a mirror into a world that works like a giant chess game.
 
 8. Alice's Adventures in Wonderland was written by Charles Lutwidge Dodgson, who used the pen name Lewis Carroll.
 
-9.Alice was based on a real life girl, Alice Liddell of Oxford. She and her family were friends with Carroll through her father, who was his boss at the university. Lewis Carroll originally came up with the story whilst trying to entertain Alice and her sisters.
+9. Alice was based on a real life girl, Alice Liddell of Oxford. She and her family were friends with Carroll through her father, who was his boss at the university. Lewis Carroll originally came up with the story whilst trying to entertain Alice and her sisters.
 
